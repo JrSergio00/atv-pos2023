@@ -7,7 +7,7 @@ const AppNavBar = () => {
     <>
       <header>
         <img src={Logo} alt="Logo do React" />
-        <h1>Lista de tarfas</h1>
+        <h1>Lista de tarefas</h1>
       </header>
     </>
   )
